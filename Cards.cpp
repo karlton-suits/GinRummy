@@ -1,5 +1,6 @@
 #include "Cards.h"
 
+//This program initializes the deck
 void Cards::InitializeDeck(){
 
 	//for the number of cards in the deck assign ranks and suits
