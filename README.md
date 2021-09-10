@@ -1,6 +1,6 @@
 # GinRummy
 
-[Live Demo](url)
+[Live Demo](https://replit.com/@odk/GinRummy?v=1)
 
 yes = 1
 no = 0
